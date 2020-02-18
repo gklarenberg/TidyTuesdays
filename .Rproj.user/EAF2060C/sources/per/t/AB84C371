@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582046333200.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AB84C371",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1582046333200,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "4976B257",
+        "caption" : "food_consumption",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=food_consumption&cache_key=4976B257",
+        "displayedObservations" : "1430",
+        "environment" : "",
+        "expression" : "food_consumption",
+        "object" : "food_consumption",
+        "preview" : "0",
+        "totalObservations" : "1430",
+        "variables" : "4"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
